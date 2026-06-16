@@ -12,6 +12,6 @@
 ### **💻 Scripting & Automation:** Shell Scripting, Python, Boto3
 ### **📘 Currently Advancing:** HashiCorp Vault, Istio, Ansible, Nginx
   
-    
+##    
    
 I’m always open to learning from people ahead of me, sharing what I know, and growing into deeper cloud and DevOps responsibilities.
