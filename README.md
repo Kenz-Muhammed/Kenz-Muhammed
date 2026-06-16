@@ -1,5 +1,5 @@
 ## **Hi, I'm Kenz Muhammed**, 
- A Postgraduate in Computer Applications and currently working as Junior DevOps Engineer with  technical expertise in DevOps & Cloud technologies. Proficient in turning manual processes into clean, automated workflows using tools like Terraform, Docker, Kubernetes, Jenkins, Python etc... an Absolute Learner who is always eager to explore, adapt, and master new technologies.and I thrive on gaining knowledge that helps me solve problems and improve systems. 
+ A Postgraduate in Computer Applications and currently working as Junior DevOps Engineer with  technical expertise in DevOps & Cloud technologies. An Absolute Learner who is always eager to explore, adapt, and master new technologies.and thrive on gaining knowledge that helps me solve problems and improve systems. 
 
 ##  Key Expertise
 
